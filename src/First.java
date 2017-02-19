@@ -6,5 +6,11 @@ public class First {
 		System.out.println("Hi First");
 	}
 	
+
+	public void firstMethod()
+	{
+		System.out.println("first method added");
+	}
+	
 	
 }
